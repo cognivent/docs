@@ -2,10 +2,10 @@
   "$schema": "https://mintlify.com/schema.json",
   "name": "Cognivent",
   "logo": {
-    "dark": "/logo/dark.svg",
-    "light": "/logo/light.svg"
+    "dark": "/logo/logo_cognivent_ai_white.png",
+    "light": "/logo/logo_cognivent_black.png"
   },
-  "favicon": "/favicon.svg",
+  "favicon": "/favicon_cog.svg",
   "colors": {
     "primary": "#0D9373",
     "light": "#07C983",
