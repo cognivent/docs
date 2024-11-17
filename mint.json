@@ -49,5 +49,10 @@
     "x": "https://x.com/Cognivent_AI",
     "youtube": "https://www.youtube.com/@cognivent",
     "linkedin": "https://www.linkedin.com/company/cogniventai/"
+  },
+  "analytics": {
+    "ga4": {
+        "measurementId": "G-XDKK25YCEQ"
+    }
   }
 }
